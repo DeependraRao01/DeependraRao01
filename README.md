@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeependraRao01
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android development
+- 👀 I’m interested in Web and Android Development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
